@@ -68,6 +68,7 @@ jobs:
           - bookworm
           - jammy
           - noble
+          - trixie
 
     steps:
 
