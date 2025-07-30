@@ -48,6 +48,7 @@ on:
           - bookworm
           - jammy
           - noble
+          - trixie
         default: bookworm
 
       system:
