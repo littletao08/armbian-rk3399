@@ -38,6 +38,7 @@ on:
           - current
           - edge
           - vendor
+          - trixie
         default: current
 
       release:
