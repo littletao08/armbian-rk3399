@@ -38,7 +38,6 @@ on:
           - current
           - edge
           - vendor
-          - trixie
         default: current
 
       release:
@@ -49,6 +48,7 @@ on:
           - bookworm
           - jammy
           - noble
+          - trixie
         default: bookworm
 
       system:
