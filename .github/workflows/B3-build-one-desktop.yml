@@ -68,6 +68,7 @@ jobs:
           - bookworm
           - jammy
           - noble
+          - trixie
         desktop:
           - xfce
           - cinnamon
