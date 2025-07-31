@@ -63,9 +63,7 @@ jobs:
           - noble
           - trixie
         desktop:
-          - cinnamon
           - gnome
-          - i3-wm
 
     steps:
 
